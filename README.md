@@ -15,7 +15,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/anirudhpanda" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="www.linkedin.com/in/anirudhpanda" height="30" width="30" /></a>
-<a href="https://www.facebook.com/anirudh.panda.75/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="anirudh panda" height="30" width="30" /></a>
+<a href="https://www.facebook.com/anirudh.panda.75/" target = "_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="anirudh panda" height="30" width="30" /></a>
 <a href="https://instagram.com/anirudh_panda?igshid=1tjzjh37tdxp6" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://instagram.com/anirudh_panda?igshid=1tjzjh37tdxp6" height="30" width="30" /></a>
 <a href="https://medium.com/@anirudhpandaofficial" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@anirudhpandaofficial" height="30" width="30" /></a>
 <a href="https://www.youtube.com/c/anirudh panda" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="anirudh panda" height="30" width="30" /></a>
