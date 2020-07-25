@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anirudh Panda</h1>
 <h3 align="center">A passionate learner and a good listener.</h3>
 
-- 🔭 I’m currently working on **Skill up Myself**
+- 🔭 I’m currently working on **Levelling up Myself**
 
 - 🤔 I’m looking for help with **Machine Learning**
 
