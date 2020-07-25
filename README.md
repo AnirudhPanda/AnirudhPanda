@@ -5,7 +5,7 @@
 
 - 🤔 I’m looking for help with **Machine Learning**
 
-- 📝 I regulary write articles on [Medium, Quora](Medium, Quora)
+- 📝 I regulary write articles on (Medium, Quora)
 
 - 📫 How to reach me **anirudhpandaofficial@gmail.com**
 
