@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Anirudh Panda</h1>
 <h3 align="center">A passionate learner and a good listener.</h3>
 
-- 🔭 I’m currently working on **Levelling up Myself**
+- 🔭 I’m currently working on **Javascript and Automation**
 
-- 🤔 I’m looking for help with **Web Develpoment**
+- 🤔 I’m looking for help with **Web Development**
 
 - 📝 I regulary write articles on (Medium, Quora)
 
