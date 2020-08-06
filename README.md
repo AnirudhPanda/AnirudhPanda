@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Levelling up Myself**
 
-- 🤔 I’m looking for help with **Machine Learning**
+- 🤔 I’m looking for help with **Web Develpoment**
 
 - 📝 I regulary write articles on (Medium, Quora)
 
