@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Anirudh Panda</h1>
 <h3 align="center">A passionate learner and a good listener.</h3>
-![](https://komarev.com/ghpvc/?username=AnirudhPanda & color=green & style=plastic & label=PROFILE+VIEWS)
+<a href="https://github.com/antonkomarev/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=AnirudhPanda">
+</a>
 
 - 🔭 I’m currently working on **Javascript and Automation**
 
