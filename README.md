@@ -15,7 +15,6 @@
 - ⚡ Fun fact **Sometimes Procastinate, but Coffee helps.**
 
 <p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="30" height="30"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="30" height="30"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/> <img 
-src="https://devicons.github.io/devicon/devicon.git/icons/js/js-original-wordmark.svg" alt="js" width="30" height="30"/> <img 
 src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/></p><p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=anirudhpanda&show_icons=true" alt="anirudhpanda" /> </p>
 
 <p align="center">
