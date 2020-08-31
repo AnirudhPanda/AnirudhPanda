@@ -10,6 +10,8 @@
 
 - 📝 I regulary write articles on (Medium, Quora)
 
+- 📌 Check Out my Simple Portfolio on anirudhpanda-portfolio.netlify.app
+
 - 📫 How to reach me **anirudhpandaofficial@gmail.com**
 
 - ⚡ Fun fact **I am debugging like a detective in a crime movie where I am also the Murderer**
