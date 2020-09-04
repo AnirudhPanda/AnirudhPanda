@@ -10,7 +10,7 @@
 
 - 📝 I regulary write articles on (Medium, Quora)
 
-- 📌 Check Out my Simple Portfolio [HERE](anirudhpanda-portfolio.netlify.app)
+- 📌 Check Out my Simple Portfolio <a href = "http://anirudhpanda-portfolio.netlify.app/">Here</a>
 
 - 📫 How to reach me **anirudhpandaofficial@gmail.com**
 
