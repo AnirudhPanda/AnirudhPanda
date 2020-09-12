@@ -4,7 +4,7 @@
     <img src="https://komarev.com/ghpvc/?username=AnirudhPanda">
 </a>
 
-- 🔭 I’m currently working on **Javascript and Automation**
+- 🔭 I’m currently working on **React and Automation**
 
 - 🤔 I’m looking for help with **Web Development**
 
