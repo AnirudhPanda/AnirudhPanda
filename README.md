@@ -12,7 +12,7 @@
 
 - 📝 I regulary write articles on (Hashnode, Quora)
 
-- ⚡ Check out my Portfolio Website <a href = "https://anirudhpanda.netlify.app/">Here</a>
+- ⚡ Check out my Portfolio Website <a href = "https://anirudhpanda.me/">Here</a>
 
 - 📌 Check Out my Simple Portfolio <a href = "http://anirudhpanda-portfolio.netlify.app/">Here</a>
 
