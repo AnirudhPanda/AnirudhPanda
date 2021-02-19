@@ -4,13 +4,13 @@
     <img src="https://komarev.com/ghpvc/?username=AnirudhPanda">
 </a>
 
-- 📃 My Resume as of December 2020 - <a href = "https://drive.google.com/file/d/1qxE5bC0iYDIqyocVBotrq6U0h68RNJqi/view?usp=sharing">Resume</a>
+- 📃 My Resume as of February 2020 - <a href = "https://drive.google.com/file/d/14Ty9FtIy7R8BwIM2QZsiHoKE5FqHsBTi/view?usp=sharing">Resume</a>
 
 - 🔭 I’m currently working on **React and NodeJS**
 
 - 🤔 I’m looking for help with **Web Development**
 
-- 📝 I regulary write articles on (Hashnode, Quora)
+- 📝 I regulary write articles on (Hashnode)
 
 - ⚡ Check out my Portfolio Website <a href = "https://anirudhpanda.me/">Here</a>
 
