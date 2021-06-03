@@ -4,7 +4,7 @@
     <img src="https://komarev.com/ghpvc/?username=AnirudhPanda">
 </a>
 
-- 📃 My Resume as of February 2021 - <a href = "https://drive.google.com/file/d/14Ty9FtIy7R8BwIM2QZsiHoKE5FqHsBTi/view?usp=sharing">Resume</a>
+- 📃 My Resume as of February 2021 - <a href = "https://drive.google.com/file/d/1LyZ04KGDW7IkaTL5Ii2HlEGeYOHJbCjA/view?usp=sharing&usp=embed_facebook">Resume</a>
 
 - 🔭 I’m currently working on **React and NodeJS**
 
