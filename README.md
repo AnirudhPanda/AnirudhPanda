@@ -10,7 +10,7 @@
 
 - 🤔 I’m looking for help with **Web Development**
 
-- 📝 I regulary write articles on <a href = "https://dancerwhocodes.hashnode.dev/">Hashnode</a>
+- 📝 I regulary write articles on <a href = "https://anirudhpanda.hashnode.dev/">Hashnode</a>
 
 - ⚡ Check out my Portfolio Website <a href = "https://anirudhpanda.me/">Here</a>
 
