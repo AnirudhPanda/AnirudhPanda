@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **React and NodeJS**
 
-- 🤔 I’m looking for help with **Web Development**
+- 🤔 I’m looking for help with **MERN Stack Development**
 
 - 📝 I regulary write articles on <a href = "https://anirudhpanda.hashnode.dev/">Hashnode</a>
 
