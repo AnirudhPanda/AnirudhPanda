@@ -31,6 +31,10 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>    
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code></p>
+
+</p><p align="center">
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AnirudhPanda&theme=material-palenight" /></p>
+
 </p><p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AnirudhPanda&layout=compact&hide=html&theme=jolly" alt="Anirudh Panda" />&nbsp;&nbsp;&nbsp;&nbsp; </p>
 
 
