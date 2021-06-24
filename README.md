@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anirudh Panda</h1>
-<h3 align="center">A passionate learner and an Open Source Geek.</h3>
+<h3 align="center">A Passionate Learner and an Open Source Geek.</h3>
 
 <a href="https://github.com/antonkomarev/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=AnirudhPanda">
