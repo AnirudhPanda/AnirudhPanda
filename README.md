@@ -7,7 +7,7 @@
 
 - 📃 My Resume as of February 2021 - <a href = "https://drive.google.com/file/d/1LyZ04KGDW7IkaTL5Ii2HlEGeYOHJbCjA/view?usp=sharing&usp=embed_facebook">Resume</a>
 
-- 🔭 I’m currently working on **React and NodeJS**
+- 🔭 I’m currently working on **ReactJS and NodeJS**
 
 - 🤔 I’m looking for help with **MERN Stack Development**
 
