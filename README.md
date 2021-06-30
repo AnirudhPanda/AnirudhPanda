@@ -15,8 +15,6 @@
 
 - ⚡ Check out my Portfolio Website <a href = "https://anirudhpanda.me/">Here</a>
 
-- 📌 Check Out my Simple Portfolio <a href = "http://anirudhpanda-portfolio.netlify.app/">Here</a>
-
 - 📫 How to reach me **anirudhpandaofficial@gmail.com**
 
 - ⚡ Fun fact **I am debugging like a detective in a crime movie where I am also the Murderer**
