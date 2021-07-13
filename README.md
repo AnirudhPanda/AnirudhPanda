@@ -37,7 +37,6 @@
 
 </p><p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AnirudhPanda&layout=compact&hide=html&theme=jolly" alt="Anirudh Panda" />&nbsp;&nbsp;&nbsp;&nbsp; </p>
 
-
 <p align="center">
 <a href="https://www.linkedin.com/in/anirudhpanda" target="_blank"><img align="center" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="www.linkedin.com/in/anirudhpanda" height="30" width="30" /></a>
 <a href="https://twitter.com/anirudhpandaaa" target = "_blank"><img align="center" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg"  alt="anirudh panda" height="30" width="30" /></a>
