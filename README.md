@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact **I am debugging like a detective in a crime movie where I am also the Murderer**
 
-<br>
+
 <h2 align="center"> 🔭 Technology Stack</h2>
 <br>
 <p align="center">
@@ -44,6 +44,8 @@
   <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white" />&nbsp;&nbsp; 
 </p>
 <br>
+
+<h2 align="center">📊 Github Statistics </h2>
 </p><p align="center">
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AnirudhPanda&theme=material-palenight" /></p>
 
