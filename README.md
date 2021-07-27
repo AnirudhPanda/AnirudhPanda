@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anirudh Panda</h1>
 <h3 align="center">A Passionate Learner and an Open Source Geek.</h3>
-
+ <img src="https://komarev.com/ghpvc/?username=AnirudhPanda" alt="AnirudhPanda" /> 
 <p align="center">
 
 - 📃 My Resume as of February 2021 - <a href = "https://drive.google.com/file/d/1LyZ04KGDW7IkaTL5Ii2HlEGeYOHJbCjA/view?usp=sharing&usp=embed_facebook">Resume</a>
