@@ -9,7 +9,7 @@
 
 - 🤔 I’m looking for help with **MERN Stack Development**
 
-- 📝 I regulary write articles on <a href = "https://anirudhpanda.hashnode.dev/">Hashnode</a>
+- 📝 I regulary write articles on <a href = "https://blog.anirudhpanda.me/">Hashnode</a>
 
 - ⚡ Check out my Portfolio Website <a href = "https://anirudhpanda.me/">Here</a>
 
