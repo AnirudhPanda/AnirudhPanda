@@ -9,9 +9,9 @@
 
 - 🤔 I’m looking for help with **MERN Stack Development**
 
-- 📝 I regulary write articles on <a href = "https://blog.anirudhpanda.me/">Hashnode</a>
+- 📝 I regulary write articles on <a href = "https://blog.anirudhpanda.in/">Hashnode</a>
 
-- ⚡ Check out my Portfolio Website <a href = "https://anirudhpanda.me/">Here</a>
+- ⚡ Check out my Portfolio Website <a href = "https://anirudhpanda.in/">Here</a>
 
 - 📫 How to reach me **anirudhpandaofficial@gmail.com**
 
