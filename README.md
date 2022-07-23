@@ -3,7 +3,7 @@
  <img src="https://komarev.com/ghpvc/?username=AnirudhPanda" alt="AnirudhPanda" /> 
 <p align="center">
 
-- 📃 My Resume as of February 2022 - <a href = "https://drive.google.com/file/d/1KbK9hVnRJreiOO2dY7RYmtk5dKtZjzNg/view?usp=sharing">Resume</a>
+- 📃 My Resume as of August 2022 - <a href = "https://drive.google.com/file/d/1LgD-taC2qEbSJC7xNK73FDVfu1wXAQTb/view">Resume</a>
 
 - 🔭 I’m currently working on **ReactJS and NodeJS**
 
